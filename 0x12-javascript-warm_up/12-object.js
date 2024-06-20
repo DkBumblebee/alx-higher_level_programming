@@ -1,12 +1,12 @@
 #!/usr/bin/node
 const myObject = {
-		type: 'object',
-		value: 12
+  type: 'object',
+  value: 12
 };
 console.log(myObject);
-//Your code
+// Your code
 // start
-myObject.value = 89
+myObject.value = 89;
 
-//end
+// end
 console.log(myObject);
